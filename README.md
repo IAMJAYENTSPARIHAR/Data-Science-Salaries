@@ -54,6 +54,4 @@ Building and evaluating machine learning models (e.g., Logistic Regression, Rand
 ### 5.3 Confusion Matrix <a name="confusion-matrix"></a>
 Analyzing model performance using confusion matrices and classification reports.
 
----
 
-This structure will help guide readers through your analysis and provide a clear outline of the project's content.
